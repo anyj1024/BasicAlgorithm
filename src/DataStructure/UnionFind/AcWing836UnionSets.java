@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author: anyj1024
  * @date: 2023/10/11
  */
-public class AcWing846UnionSets {
+public class AcWing836UnionSets {
     static int N = 100010;
     static int[] position = new int[N];
 
