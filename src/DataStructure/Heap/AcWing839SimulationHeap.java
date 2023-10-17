@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author: anyj1024
  * @date: 2023/10/16
  */
-public class AcWing840SimulationHeap {
+public class AcWing839SimulationHeap {
     static int N = 100010,size,m;
     static int[] h = new int[N];
     static int[] hp = new int[N];
